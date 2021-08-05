@@ -62,14 +62,14 @@ print()
 print(" ")
 time.sleep(1)
 yes_no("Have you played MaQuith before ya dog? (y/n): ")
-print(" ")
+print(" ") 
     
   
 #lists
 difficulty_levels = ["1","2","3"]
 
 
-print("kkk")
+print("aaa")
 
 #Tutorial
 
